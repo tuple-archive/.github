@@ -2,4 +2,4 @@
 
 An archive of select website projects made by [Tuple](https://github.com/tuple).
 
-![screenshots animated gif](https://github.com/user-attachments/assets/90a695dd-fad2-42aa-947f-70b73a7c6e12)
+![screenshots animated gif](https://github.com/user-attachments/assets/9d2cd698-68d4-4c7f-986b-a65cce0f5532)
